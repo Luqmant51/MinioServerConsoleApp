@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinioServerConsoleApp", "MinioServerConsoleApp.csproj", "{47FAEA81-F764-4316-8FA1-0B85E28DADFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47FAEA81-F764-4316-8FA1-0B85E28DADFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FAEA81-F764-4316-8FA1-0B85E28DADFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FAEA81-F764-4316-8FA1-0B85E28DADFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FAEA81-F764-4316-8FA1-0B85E28DADFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89509B7E-8C6B-4BD1-82A0-14CC50360576}
+	EndGlobalSection
+EndGlobal
