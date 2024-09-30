@@ -100,3 +100,5 @@ cd bin/Debug/net8.0/
 ## Additional Resources
 
 For more information, refer to the official [MinIO documentation](https://docs.min.io/).
+
+Use your own  MinIO server and credentials to test the commands. The commands are designed to be used with a Min
